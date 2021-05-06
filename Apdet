@@ -2,7 +2,11 @@
   {
     "نام": "پلنگ صورتی",
     "عکس": "https://s19.picofile.com/file/8432850200/Pink_Panther.png",
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/YCfL8/vt/frame",
+    "سرور": "https://raw.githubusercontent.com/AppRoboPlus/palang-sorati/main/Palang"
+  },
+  {
+    "نام": "باب اسفنجی",
+    "عکس": "https://s19.picofile.com/file/8432860334/The_SpongeBob_SquarePants_Movie_poster.jpg",
     "سرور": "https://raw.githubusercontent.com/AppRoboPlus/palang-sorati/main/Palang"
   }
 ]
