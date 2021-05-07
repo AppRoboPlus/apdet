@@ -8,5 +8,10 @@
     "نام": "باب اسفنجی",
     "عکس": "https://s19.picofile.com/file/8432860334/The_SpongeBob_SquarePants_Movie_poster.jpg",
     "سرور": "https://raw.githubusercontent.com/AppRoboPlus/spong-bob/main/Spong"
+  },
+  {
+    "نام": "پهلوانان",
+    "عکس": "https://s19.picofile.com/file/8432957568/%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B5%DB%B0%DB%B7_%DB%B1%DB%B8%DB%B2%DB%B4%DB%B0%DB%B1.jpg",
+    "سرور": "https://raw.githubusercontent.com/AppRoboPlus/pahlevanan/main/Pahlevanan"
   }
 ]
